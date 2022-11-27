@@ -1,0 +1,12 @@
+.name {
+  display: inline-block;
+}
+
+div {
+  margin-bottom: 10px;
+}
+label {
+  display: inline-block;
+  width: 120px;
+  text-align: right;
+}
